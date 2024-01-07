@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/semihdizdar/Projects/EducationPlatform/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj": {}
+    "/Users/semihdizdar/Documents/GitHub/EducationPlatform/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj": {}
   },
   "projects": {
-    "/Users/semihdizdar/Projects/EducationPlatform/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj": {
+    "/Users/semihdizdar/Documents/GitHub/EducationPlatform/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/semihdizdar/Projects/EducationPlatform/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
+        "projectUniqueName": "/Users/semihdizdar/Documents/GitHub/EducationPlatform/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
         "projectName": "FreeCourse.Services.Catalog",
-        "projectPath": "/Users/semihdizdar/Projects/EducationPlatform/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
+        "projectPath": "/Users/semihdizdar/Documents/GitHub/EducationPlatform/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
         "packagesPath": "/Users/semihdizdar/.nuget/packages/",
-        "outputPath": "/Users/semihdizdar/Projects/EducationPlatform/Services/Catalog/FreeCourse.Services.Catalog/obj/",
+        "outputPath": "/Users/semihdizdar/Documents/GitHub/EducationPlatform/Services/Catalog/FreeCourse.Services.Catalog/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/semihdizdar/.nuget/NuGet/NuGet.Config"

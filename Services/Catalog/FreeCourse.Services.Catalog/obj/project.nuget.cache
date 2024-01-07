@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "63ThGI7dMXwH8cPwPvs9C5BGSLfgvP4iD/5bhdydID6Pf3/sjzbORJuMolh7A7IryalBpNqscXlTAFVXDO3WWw==",
+  "dgSpecHash": "nMqIQxL3MdXxT70rNt5awIVaTBl5TCV1hlzF6IOXKhUaRa1CuCYlT+DXgQpeR9Mqa4ZtYSlflcxl/oqAt1SaZw==",
   "success": true,
-  "projectFilePath": "/Users/semihdizdar/Projects/EducationPlatform/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
+  "projectFilePath": "/Users/semihdizdar/Documents/GitHub/EducationPlatform/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
   "expectedPackageFiles": [
     "/Users/semihdizdar/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/Users/semihdizdar/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",

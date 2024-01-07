@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/semihdizdar/Projects/EducationPlatform/FreeCourse.Shared/FreeCourse.Shared.csproj": {}
+    "/Users/semihdizdar/Documents/GitHub/EducationPlatform/FreeCourse.Shared/FreeCourse.Shared.csproj": {}
   },
   "projects": {
-    "/Users/semihdizdar/Projects/EducationPlatform/FreeCourse.Shared/FreeCourse.Shared.csproj": {
+    "/Users/semihdizdar/Documents/GitHub/EducationPlatform/FreeCourse.Shared/FreeCourse.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/semihdizdar/Projects/EducationPlatform/FreeCourse.Shared/FreeCourse.Shared.csproj",
+        "projectUniqueName": "/Users/semihdizdar/Documents/GitHub/EducationPlatform/FreeCourse.Shared/FreeCourse.Shared.csproj",
         "projectName": "FreeCourse.Shared",
-        "projectPath": "/Users/semihdizdar/Projects/EducationPlatform/FreeCourse.Shared/FreeCourse.Shared.csproj",
+        "projectPath": "/Users/semihdizdar/Documents/GitHub/EducationPlatform/FreeCourse.Shared/FreeCourse.Shared.csproj",
         "packagesPath": "/Users/semihdizdar/.nuget/packages/",
-        "outputPath": "/Users/semihdizdar/Projects/EducationPlatform/FreeCourse.Shared/obj/",
+        "outputPath": "/Users/semihdizdar/Documents/GitHub/EducationPlatform/FreeCourse.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/semihdizdar/.nuget/NuGet/NuGet.Config"
